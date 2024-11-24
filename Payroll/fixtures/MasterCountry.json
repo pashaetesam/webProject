@@ -1,0 +1,38 @@
+[
+    
+    {
+        "model": "Payroll.Country",
+        "id": "2",
+        "fields":{
+            "CountryName":"US"
+        }
+    },
+    {
+        "model": "Payroll.Country",
+        "id": "3",
+        "fields":{
+            "CountryName":"UK"
+        }
+    },
+    {
+        "model": "Payroll.Country",
+        "id": "4",
+        "fields":{
+            "CountryName":"Spain"
+        }
+    }    ,
+    {
+        "model": "Payroll.Country",
+        "id": "5",
+        "fields":{
+            "CountryName":"Brasil"
+        }
+    },
+    {
+        "model": "Payroll.Country",
+        "id": "6",
+        "fields":{
+            "CountryName":"Italy"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "model": "Payroll.Department",
+        "id": "2",
+        "fields":{
+            "DeptName":"HR",
+            "LocationName":"West"
+        }
+    },
+    {
+        "model": "Payroll.Department",
+        "id": "3",
+        "fields":{
+            "DeptName":"HR",
+            "LocationName":"East"
+        }
+    },
+    {
+        "model": "Payroll.Department",
+        "id": "4",
+        "fields":{
+            "DeptName":"Finance",
+            "LocationName":"west"
+        }
+    }    ,
+    {
+        "model": "Payroll.Department",
+        "id": "5",
+        "fields":{
+            "DeptName":"Billing",
+            "LocationName":"west"
+        }
+    },
+    {
+        "model": "Payroll.Department",
+        "id": "6",
+        "fields":{
+            "DeptName":"IT",
+            "LocationName":"west"
+        }
+    }
+]
